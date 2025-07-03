@@ -38,3 +38,6 @@
    cd LearnThaiword
    npm install
    npm run dev
+
+
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/2d2cd2bf-2417-44c4-9c06-1329f071ca3e" />
