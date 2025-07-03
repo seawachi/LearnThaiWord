@@ -33,7 +33,8 @@
 
 ## การติดตั้ง
 
-1. ติดตั้ง Vite + React โปรเจกต์ใหม่ (หากยังไม่มี)
+1. clone project ไป
    ```bash
-   npm create vite@latest thai-typing-app --template react
-   cd thai-typing-app
+   cd LearnThaiword
+   npm install
+   npm run dev
